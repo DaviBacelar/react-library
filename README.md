@@ -1,1 +1,1 @@
-# nextjs-library
+# react-library
